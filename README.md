@@ -1,3 +1,8 @@
+## 🤖 Použité AI nástroje
+Pri vývoji aplikácie bola využitá umelá inteligencia.
+- **Nástroj:** Google Gemini
+- **Využitie:** Generovanie zdrojového kódu (Python/Tkinter), riešenie chýb pri kompilácii a tvorba dokumentácie.
+- 
 # Analýza dĺžky slov (Word Length Analyzer)
 
 Jednoduchá desktopová aplikácia v jazyku Python (GUI), ktorá pracuje s poľom slov, analyzuje ich dĺžku a vizualizuje výsledky.
